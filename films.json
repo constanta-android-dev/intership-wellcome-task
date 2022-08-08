@@ -2,7 +2,7 @@
   "items": [
     {
       "title": "Андрей Рублев",
-      "directorName": "Андрей Арсеньевич Тарковский",
+      "directorName": "Андрей  Тарковский",
       "releaseYear": 1966,
       "actors": [
         {
@@ -33,38 +33,13 @@
     },
     {
       "title": "Остров",
-      "directorName": "Павел Семёнович Лунгин",
+      "directorName": "Павел  Лунгин",
       "releaseYear": 2006,
-      "actors": [
-        {
-          "actorName": "Петр Мамонов"
-        },
-        {
-          "actorName": "Виктор Сухоруков"
-        },
-        {
-          "actorName": "Дмитрий Дюжев"
-        },
-        {
-          "actorName": "Петр Мамонов"
-        },
-        {
-          "actorName": "Виктория Исакова"
-        },
-        {
-          "actorName": "Тимофей Трибунцев"
-        },
-        {
-          "actorName": "Петр Мамонов"
-        },
-        {
-          "actorName": "Алексей Зеленский"
-        }
-      ]
+      "actors": []
     },
     {
       "title": "Царь",
-      "directorName": "Павел Семёнович Лунгин",
+      "directorName": "Павел  Лунгин",
       "releaseYear": 2009,
       "actors": [
         {
@@ -95,7 +70,7 @@
     },
     {
       "title": "Тарас Бульба",
-      "directorName": "Владимир Владимирович Бортко",
+      "directorName": "Владимир  Бортко",
       "releaseYear": 2009,
       "actors": [
         {
@@ -126,7 +101,7 @@
     },
     {
       "title": "Адмиралъ",
-      "directorName": "Андрей Юрьевич Кравчук",
+      "directorName": "Андрей  Кравчук",
       "releaseYear": 2008,
       "actors": [
         {
@@ -157,7 +132,7 @@
     },
     {
       "title": "Самый лучший фильм",
-      "directorName": "Кирилл Юрьервич Кузин",
+      "directorName": "Кирилл  Кузин",
       "releaseYear": 2007,
       "actors": [
         {
@@ -188,11 +163,11 @@
     },
     {
       "title": "Самый лучший фильм 2",
-      "directorName": "Олег Борисович Фомин",
+      "directorName": "г-н Олег Борисович Фомин",
       "releaseYear": 2009,
       "actors": [
         {
-          "actorName": "Тимур Батрутдинов"
+          "actorName": "Батрутдинов"
         },
         {
           "actorName": "Гарик Харламов"
